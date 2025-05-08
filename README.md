@@ -1,2 +1,1 @@
-# AerosolSizeDistributionAnalysis
-MATLAB scripts for analyzing aerosol size distribution using SMPS and MPSS data, including cloud and non-cloud comparisons, time-based plotting, and modal fitting.
+his repository contains MATLAB scripts for analyzing and visualizing aerosol particle size distributions collected using SMPS and MPSS instruments. The analysis includes diurnal cycle separation, in-cloud vs. out-of-cloud comparisons, percentage contributions of particle sizes, spline and Gaussian modal fits, and time-series analysis.
